@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 - This project aims to predict the survival outcome of passengers aboard the Titanic using machine learning techniques.
-- The dataset used for training and testing the models is    provided in the train.csv and test.csv files.
+- The dataset used for training and testing the models is provided in the train.csv and test.csv files.
 
 # Dataset
 - The dataset consists of the following columns:
